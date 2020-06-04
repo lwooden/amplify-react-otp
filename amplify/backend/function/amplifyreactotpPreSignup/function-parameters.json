@@ -1,0 +1,16 @@
+{
+    "trigger": true,
+    "modules": [
+        "email-filter-whitelist"
+    ],
+    "parentResource": "amplifyreactotp",
+    "functionName": "amplifyreactotpPreSignup",
+    "resourceName": "amplifyreactotpPreSignup",
+    "parentStack": "auth",
+    "triggerEnvs": [],
+    "triggerDir": "/Users/low/.config/yarn/global/node_modules/amplify-category-auth/provider-utils/awscloudformation/utils/../triggers/PreSignup",
+    "triggerTemplate": "PreSignup.json.ejs",
+    "roleName": "amplifyreactotpPreSignup",
+    "skipEdit": true,
+    "DOMAINWHITELIST": ""
+}

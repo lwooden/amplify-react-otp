@@ -1,0 +1,17 @@
+{
+    "trigger": true,
+    "modules": [
+        "boilerplate-create-challenge"
+    ],
+    "parentResource": "amplifyreactotp",
+    "functionName": "amplifyreactotpCreateAuthChallenge",
+    "resourceName": "amplifyreactotpCreateAuthChallenge",
+    "parentStack": "auth",
+    "triggerEnvs": "[]",
+    "triggerDir": "/Users/low/.config/yarn/global/node_modules/amplify-category-auth/provider-utils/awscloudformation/utils/../triggers/CreateAuthChallenge",
+    "triggerTemplate": "CreateAuthChallenge.json.ejs",
+    "roleName": "amplifyreactotpCreateAuthChallenge",
+    "skipEdit": true,
+    "CHALLENGEANSWER": "",
+    "triggerEventPath": "CreateAuthChallenge.event.json"
+}

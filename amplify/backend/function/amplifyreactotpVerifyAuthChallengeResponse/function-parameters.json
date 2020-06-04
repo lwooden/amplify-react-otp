@@ -1,0 +1,16 @@
+{
+    "trigger": true,
+    "modules": [
+        "boilerplate-verify"
+    ],
+    "parentResource": "amplifyreactotp",
+    "functionName": "amplifyreactotpVerifyAuthChallengeResponse",
+    "resourceName": "amplifyreactotpVerifyAuthChallengeResponse",
+    "parentStack": "auth",
+    "triggerEnvs": "[]",
+    "triggerDir": "/Users/low/.config/yarn/global/node_modules/amplify-category-auth/provider-utils/awscloudformation/utils/../triggers/VerifyAuthChallengeResponse",
+    "triggerTemplate": "VerifyAuthChallengeResponse.json.ejs",
+    "roleName": "amplifyreactotpVerifyAuthChallengeResponse",
+    "skipEdit": true,
+    "triggerEventPath": "VerifyAuthChallengeResponse.event.json"
+}

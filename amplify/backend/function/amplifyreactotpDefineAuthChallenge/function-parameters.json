@@ -1,0 +1,16 @@
+{
+    "trigger": true,
+    "modules": [
+        "boilerplate-define-challenge"
+    ],
+    "parentResource": "amplifyreactotp",
+    "functionName": "amplifyreactotpDefineAuthChallenge",
+    "resourceName": "amplifyreactotpDefineAuthChallenge",
+    "parentStack": "auth",
+    "triggerEnvs": "[]",
+    "triggerDir": "/Users/low/.config/yarn/global/node_modules/amplify-category-auth/provider-utils/awscloudformation/utils/../triggers/DefineAuthChallenge",
+    "triggerTemplate": "DefineAuthChallenge.json.ejs",
+    "roleName": "amplifyreactotpDefineAuthChallenge",
+    "skipEdit": true,
+    "triggerEventPath": "DefineAuthChallenge.event.json"
+}
